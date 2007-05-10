@@ -1,6 +1,3 @@
-
-# NewsTerp will be a basic news aggregation and fact extraction service.
-
 = Automated fact extraction =
 
 News articles are downloaded and clustered, before basic relations are extracted using light NLP parsing and noun-phrase chunking (similar to www.cs.washington.edu/research/textrunner/). Similar relations are merged among clustered articles, exposing prevalent extracted facts among the various articles.
